@@ -41,4 +41,4 @@ I'm extremely interested in UI, which is one of the reasons why I got started in
 [linkedin]: https://www.linkedin.com/in/pablo-pe%C3%B1a-15619420a/
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebas-pena&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebas-pena&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sebas_pena)](https://github.com/anuraghazra/github-readme-stats)
