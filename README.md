@@ -40,4 +40,9 @@ I'm extremely interested in UI, which is one of the reasons why I got started in
 [instagram]: https://www.instagram.com/sebastian_.pena/
 [linkedin]: https://www.linkedin.com/in/pablo-pe%C3%B1a-15619420a/
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
