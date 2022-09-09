@@ -39,3 +39,5 @@ I'm extremely interested in UI, which is one of the reasons why I got started in
 [website]: https://sebas-pena.github.io/portfolio/
 [instagram]: https://www.instagram.com/sebastian_.pena/
 [linkedin]: https://www.linkedin.com/in/pablo-pe%C3%B1a-15619420a/
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
