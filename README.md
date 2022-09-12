@@ -41,6 +41,8 @@ I'm extremely interested in UI, which is one of the reasons why I got started in
 [linkedin]: https://www.linkedin.com/in/pablo-pe%C3%B1a-15619420a/
 
 <div align="left">
+    <a href="https://github.com/sebas-pena">
   <img alt="My github stats"  height="170em" src="https://github-readme-stats.vercel.app/api?username=sebas-pena&show_icons=true&include_all_commits=true&count_private=true"/>
   <img alt="Top Langs"  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas-pena&layout=compact&langs_count=7"/>
+    </a>
 </div>
