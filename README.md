@@ -39,5 +39,9 @@ I'm extremely interested in UI, which is one of the reasons why I got started in
 [website]: https://sebas-pena.github.io/portfolio/
 [instagram]: https://www.instagram.com/sebastian_.pena/
 [linkedin]: https://www.linkedin.com/in/pablo-pe%C3%B1a-15619420a/
-[![My github stats](https://github-readme-stats.vercel.app/api?username=sebas-pena&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebas-pena&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+
+<div align="left">
+  <a href="https://github.com/manu-developer">
+  <img alt="My github stats"  height="170em" src="https://github-readme-stats.vercel.app/api?username=sebas-pena&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img alt="Top Langs"  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas-pena&layout=compact&langs_count=7"/>
+</div>
