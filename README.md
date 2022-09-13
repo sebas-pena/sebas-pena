@@ -32,11 +32,11 @@ It'd be a pleasure to work with you on any kind of project, so don't hesitate to
 
 ## :mailbox_with_mail: Connect With Me
     
-  <a href = "mailto:sebapena2002@gmail.com">
+  <a href = "mailto:pablo.sebastian.pena@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   
-   <a href="https://www.linkedin.com/in/pablo-pe%C3%B1a-15619420a/" target="_blank">
+   <a href="https://www.linkedin.com/in/pablo-sebastian-pena/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   
