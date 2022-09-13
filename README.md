@@ -6,6 +6,7 @@ With strong logical skills in programming languages like JavaScript, always look
 
 I'm extremely interested in UI, which is one of the reasons why I got started in this beautiful journey called *Web Development*.
 
+It'd be a pleasure to work with you on any kind of project, so don't hesitate to contact me, I'm always available! 📩
 
 ## :hammer_and_wrench: Languages and Tools:
 
@@ -21,6 +22,13 @@ I'm extremely interested in UI, which is one of the reasons why I got started in
 
 <br/>
 <br/>
+
+<div align="left">
+    <a href="https://github.com/sebas-pena">
+  <img alt="My github stats"  height="170em" src="https://github-readme-stats.vercel.app/api?username=sebas-pena&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img alt="Top Langs"  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas-pena&layout=compact&langs_count=7"/>
+    </a>
+</div>
 
 ## :mailbox_with_mail: Connect With Me
     
@@ -40,11 +48,4 @@ I'm extremely interested in UI, which is one of the reasons why I got started in
 [instagram]: https://www.instagram.com/sebastian_.pena/
 [linkedin]: https://www.linkedin.com/in/pablo-pe%C3%B1a-15619420a/
 
-<div align="left">
-    <a href="https://github.com/sebas-pena">
-  <img alt="My github stats"  height="170em" src="https://github-readme-stats.vercel.app/api?username=sebas-pena&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img alt="Top Langs"  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas-pena&layout=compact&langs_count=7"/>
-    </a>
-</div>
 
-It'd be a pleasure to work with you on any kind of project, so don't hesitate to contact me, I'm always available! 📩
